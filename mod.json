@@ -6,11 +6,11 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "mike.gdmod",
+	"name": "Mike GD Mod",
+	"version": "0.0.1",
+	"developer": "MikeFoxGD",
+	"description": "legal",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
